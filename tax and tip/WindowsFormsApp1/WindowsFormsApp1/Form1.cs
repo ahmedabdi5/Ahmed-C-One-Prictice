@@ -21,12 +21,19 @@ namespace WindowsFormsApp1
         {
             try
             {
+                //creating variabkes
                 String food1 = txtfood1.Text;
                 int  price1 = int.Parse (txtprice1.Text);
                 String food2 = txtfood2.Text;
                 int price2 =int.Parse (txtprice2.Text);
+
+                //calaclate of tax
                 double tax=(price1 + price2)*0.07;
+
+                //calculate of total
                 double total = price1 + price2 + tax;
+
+                //label of output of result
                 lblresult.Text="tax is $: "+tax.ToString("")+ " total is $:" + total.ToString("");
 
             }
