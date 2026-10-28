@@ -1,0 +1,33 @@
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.exe.config
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.exe
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.pdb
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.AssemblyReference.cache
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment_1_and_2.Form1.resources
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment_1_and_2.Properties.Resources.resources
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.GenerateResource.cache
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.CoreCompileInputs.cache
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.exe
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.pdb
+C:\C# Projects\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.exe.config
+E:\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.exe.config
+E:\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.exe
+E:\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.pdb
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.AssemblyReference.cache
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.exe.config
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment_1_and_2.Form1.resources
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment_1_and_2.Properties.Resources.resources
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.GenerateResource.cache
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.CoreCompileInputs.cache
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.exe
+E:\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.pdb
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.exe.config
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.exe
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\bin\Debug\Assignment 1 and 2.pdb
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.exe.config
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment_1_and_2.Form1.resources
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment_1_and_2.Properties.Resources.resources
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.exe
+C:\Users\pc\Desktop\Assigment1 and 2\Assignment 1 and 2\Assignment 1 and 2\obj\Debug\Assignment 1 and 2.pdb
